@@ -50,23 +50,11 @@
 <!-- Featured Projects -->
 ## 🎯 Featured Projects
 
-### 1. [Inventory Management System](https://github.com/DilsaraThiranjaya/Inventory-Management-System)
-- 🛠️ Full-stack inventory management solution
-- 💻 Built with MERN Stack (MongoDB, Express.js, React, Node.js)
-- 🔑 Features: Real-time tracking, analytics dashboard, user management
-- 🎯 Status: Completed & Deployed
-
-### 2. [Student Management System](https://github.com/DilsaraThiranjaya/student-management-system)
+### 1. [Student Management System](https://github.com/DilsaraThiranjaya/student-management-system)
 - 📚 Comprehensive student information system
-- 🔧 Tech Stack: Spring Boot, React, MySQL
+- 🔧 Tech Stack: Java, JavaFx, MySQL
 - ✨ Features: Course management, attendance tracking, grade management
 - 🎯 Status: In Progress
-
-### 3. [E-Commerce Platform](https://github.com/DilsaraThiranjaya/e-commerce-platform)
-- 🛍️ Modern e-commerce solution
-- 🚀 Built with Next.js, TypeScript, and Stripe
-- 💫 Features: Product catalog, cart management, secure payments
-- 🎯 Status: Active Development
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
