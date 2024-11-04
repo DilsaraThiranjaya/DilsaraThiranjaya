@@ -1,5 +1,9 @@
+<div align="center">
+
 <!-- Dynamic Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Hi+👋+I'm+Dilsara+Thiranjaya;Welcome+to+my+Digital+Space;Software+Engineering+Student+at+IJSE;Full+Stack+Developer;Passionate+about+Innovation)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   
@@ -95,10 +99,11 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dilsara-thiranjaya-97b65128b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://dilsara-thiranjaya-portfolio.web.app)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:dilsarathiranjaya3@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://web.facebook.com/dilsara.thiranjaya/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/dilsarathiranjaya/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/DilsaraThiranj1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://dilsara-thiranjaya-portfolio.web.app)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:dilsarathiranjaya3@gmail.com)
 
 </div>
 
