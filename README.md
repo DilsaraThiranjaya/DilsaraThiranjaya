@@ -51,10 +51,10 @@
 ## 🎯 Featured Projects
 
 ### 1. [Student Management System](https://github.com/DilsaraThiranjaya/student-management-system)
-- 📚 Comprehensive student information system
+- 📚 Comprehensive Student Management System
 - 🔧 Tech Stack: Java, JavaFx, MySQL
-- ✨ Features: Course management, attendance tracking, grade management
-- 🎯 Status: In Progress
+- ✨ Features: Student management, Course management, Attendance management, Payment management, ...etc.
+- 🎯 Status: Completed 
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -75,16 +75,6 @@
   [![Trophy](https://github-profile-trophy.vercel.app/?username=dilsarathiranjaya&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
-
-<!-- Recent Activity -->
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in Inventory Management System
-2. 💻 Working on Student Management System
-3. 🐛 Fixed bugs in E-Commerce Platform
-4. 📚 Contributing to open-source projects
-<!--END_SECTION:activity-->
 
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
