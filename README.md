@@ -7,9 +7,9 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=dilsarathiranjaya&color=3b82f6&style=flat-square)](https://github.com/dilsarathiranjaya)
-[![GitHub followers](https://img.shields.io/github/followers/dilsarathiranjaya?logo=github&style=flat-square)](https://github.com/dilsarathiranjaya)
-[![GitHub Stars](https://img.shields.io/github/stars/dilsarathiranjaya?logo=github&style=flat-square)](https://github.com/dilsarathiranjaya)
+[![Profile Views](https://komarev.com/ghpvc/?username=dilsarathiranjaya&color=3b82f6&style=for-the-badge-square)](https://github.com/dilsarathiranjaya)
+[![GitHub followers](https://img.shields.io/github/followers/dilsarathiranjaya?logo=github&style=for-the-badge-square)](https://github.com/dilsarathiranjaya)
+[![GitHub Stars](https://img.shields.io/github/stars/dilsarathiranjaya?logo=github&style=for-the-badge-square)](https://github.com/dilsarathiranjaya)
 
 </div>
 
@@ -28,14 +28,7 @@
 
 <div align="center">
 
-### Development Stack
-
-**Frontend Development** | **Backend Development** | **Database Technologies** | **Development Tools**
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | | |
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
 
@@ -53,6 +46,7 @@
 
 ### [World of PC Gamer's Website](https://github.com/DilsaraThiranjaya/World-of-PC-Gamer-s.git)
 > An interactive gaming blog showcasing the latest in PC gaming culture
+- **Link**: https://world-of-pc-gamer-s.web.app
 - **Tech Stack**: `HTML` `CSS` `JavaScript`
 - **Key Features**:
   - 📱 Fully responsive design for all devices
@@ -64,6 +58,7 @@
 
 ### [Blue Wave Resort Website](https://github.com/DilsaraThiranjaya/Blue-Wave-Resort-Website.git)
 > A modern and elegant hotel showcase website
+- **Link**: https://bluewave-resort.web.app
 - **Tech Stack**: `HTML` `CSS` `JavaScript` `Bootstrap`
 - **Key Features**:
   - 🏨 Attractive room & facility showcase
@@ -75,6 +70,7 @@
 
 ### [Portfolio Website](https://github.com/DilsaraThiranjaya/Portfolio-New.git)
 > Professional portfolio showcasing my software engineering journey
+- **Link**: https://dilsara-thiranjaya-portfolio.web.app
 - **Tech Stack**: `HTML` `CSS` `JavaScript`
 - **Key Features**:
   - 👨‍💻 Comprehensive project showcase
@@ -86,12 +82,16 @@
 ## 📊 Development Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilsarathiranjaya&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilsarathiranjaya&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilsarathiranjaya&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilsarathiranjaya&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilsarathiranjaya&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dilsarathiranjaya&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dilsarathiranjaya&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></a>
 </div>
 
 ## 🤝 Professional Network
