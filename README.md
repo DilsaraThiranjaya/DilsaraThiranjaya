@@ -24,60 +24,17 @@
 - 🤝 Seeking collaborative opportunities on innovative projects
 - ⚡ Philosophy: "Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected." - Robert C. Martin
 
-## 🛠️ Technical Expertise
+---
+
+## 🛠 Tech Stack  
 
 <div align="center">
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,jquery,mysql,firebase,figma,ps,git&theme=light" />
 
 </div>
 
-## 🎯 Featured Projects
-
-### [Learner's Management System](https://github.com/DilsaraThiranjaya/Learner-s-Management-System-New.git)
-> A comprehensive solution for driving school management
-- **Tech Stack**: `Java` `JavaFX` `MySQL`
-- **Key Features**: 
-  - 👤 Student registration and tracking
-  - 📝 Basic student information management
-  - 💰 Simple payment recording
-  - 📊 Basic report generation
-  - 📅 Class schedule tracking
-
-### [World of PC Gamer's Website](https://github.com/DilsaraThiranjaya/World-of-PC-Gamer-s.git)
-> An interactive gaming blog showcasing the latest in PC gaming culture
-- **Link**: https://world-of-pc-gamer-s.web.app
-- **Tech Stack**: `HTML` `CSS` `JavaScript`
-- **Key Features**:
-  - 📱 Fully responsive design for all devices
-  - 🌐 Interactive user interface
-  - 📰 Latest gaming news and reviews
-  - 💻 Hardware and software recommendations
-  - 🎯 Gaming tips and tutorials
-  - 💬 User-friendly navigation
-
-### [Blue Wave Resort Website](https://github.com/DilsaraThiranjaya/Blue-Wave-Resort-Website.git)
-> A modern and elegant hotel showcase website
-- **Link**: https://bluewave-resort.web.app
-- **Tech Stack**: `HTML` `CSS` `JavaScript` `Bootstrap`
-- **Key Features**:
-  - 🏨 Attractive room & facility showcase
-  - 📱 Fully responsive design for all devices
-  - 🎯 Easy navigation and user experience
-  - 📸 Image gallery of hotel amenities
-  - 📍 Location information
-  - 📞 Contact form and information
-
-### [Portfolio Website](https://github.com/DilsaraThiranjaya/Portfolio-New.git)
-> Professional portfolio showcasing my software engineering journey
-- **Link**: https://dilsara-thiranjaya-portfolio.web.app
-- **Tech Stack**: `HTML` `CSS` `JavaScript`
-- **Key Features**:
-  - 👨‍💻 Comprehensive project showcase
-  - 🎯 Interactive skills display
-  - 📱 Fully responsive design for all devices
-  - 📬 Interactive contact form
-  - 🔗 Social media integration
+---
 
 ## 📊 Development Metrics
 
@@ -118,7 +75,14 @@ I welcome opportunities for professional collaboration through:
 <div align="center">
   
 ---
-> "The only way to do great work is to love what you do." - Steve Jobs
+
+<div align="center">
+
+✨ *“The only way to do great work is to love what you do.” – Steve Jobs* ✨  
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70px"/>
+
+</div>
 
 ⭐️ Thank you for visiting my profile | [Dilsara Thiranjaya](https://github.com/dilsarathiranjaya)
 
